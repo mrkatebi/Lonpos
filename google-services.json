@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861705108535",
+    "firebase_url": "https://lonpos-17bf8.firebaseio.com",
+    "project_id": "lonpos-17bf8",
+    "storage_bucket": "lonpos-17bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861705108535:android:1369fddf18ac6096",
+        "android_client_info": {
+          "package_name": "com.Katebi.lonpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861705108535-uvc3jjbdsqpjcqql83ksi8dqim93lrk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtL-XX68CkKR-_nxh82cjBKponWbrWBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
