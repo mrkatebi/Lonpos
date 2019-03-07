@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+GoogleMobileAdsPlugin/GoogleMobileAdsPlugin.iml
+GoogleMobileAdsPlugin/build/
+lonpos.iml
+release/
+build/
